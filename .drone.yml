@@ -1,0 +1,5 @@
+debug: true
+build:
+  image: python:3.4-wheezy
+  commands:
+    - echo foo
